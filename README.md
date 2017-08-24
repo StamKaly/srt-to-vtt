@@ -1,5 +1,7 @@
 # srt-to-vtt
 
+Forked to add independent binaries for all major platforms, available in Releases!
+
 Transform stream that converts srt files to vtt files.
 vtt files are used to provide subtitles in html5 video
 
